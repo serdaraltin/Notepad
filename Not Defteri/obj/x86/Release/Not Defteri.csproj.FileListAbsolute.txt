@@ -1,0 +1,25 @@
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not_Defteri.Form1.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not_Defteri.Properties.Resources.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not Defteri.csproj.GenerateResource.Cache
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\bin\Release\Not Defteri.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\bin\Release\Not Defteri.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not_Defteri.bul.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not Defteri.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not Defteri.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Release\Not_Defteri.Değiştir.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Release\Not Defteri.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Release\Not Defteri.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.bul.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not Defteri.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not Defteri.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not Defteri.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Git.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Release\Not Defteri.exe.config
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Degistir.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Gecmis.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Main.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Secenekler.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Hakkında.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not Defteri.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Release\Not_Defteri.Veri_Dönüştürücü.resources

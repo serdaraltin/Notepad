@@ -1,0 +1,79 @@
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not_Defteri.Form1.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not Defteri.csproj.GenerateResource.Cache
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not Defteri.exe
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not Defteri.pdb
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not_Defteri.bul.resources
+C:\Users\Main\AppData\Local\Temporary Projects\Not Defteri\obj\x86\Debug\Not_Defteri.Değiştir.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.bul.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Git.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Degistir.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Gecmis.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Main.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Secenekler.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Hakkında.resources
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Veri_Dönüştürücü.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Bul.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Degistir.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Gecmis.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Hakkında.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Main.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Git.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Secenekler.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Veri_Dönüştürücü.resources
+C:\Users\Root\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.kripto.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.un_kripto.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.exe
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.pdb
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Bul.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Degistir.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Gecmis.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Hakkında.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.kripto.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Main.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Git.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Secenekler.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.un_kripto.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Veri_Dönüştürücü.resources
+D:\Documents\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csproj.GenerateResource.Cache
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csprojResolveAssemblyReference.cache
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Bul.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Degistir.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Gecmis.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Hakkında.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.kripto.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Main.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Git.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Properties.Resources.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Secenekler.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.un_kripto.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not_Defteri.Veri_Dönüştürücü.resources
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.csproj.GenerateResource.Cache
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.exe
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Not Defteri\Not Defteri\obj\x86\Debug\Not Defteri.pdb

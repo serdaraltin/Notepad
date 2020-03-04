@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7956044B-20CA-49F7-A113-D2D9ECC49175}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Not_Defteri</RootNamespace>
+    <AssemblyName>Not Defteri</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Applic-Notepad-icon.png.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bul.Designer.cs">
+      <DependentUpon>Bul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayarlar.Designer.cs">
+      <DependentUpon>ayarlar.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Degistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Degistir.Designer.cs">
+      <DependentUpon>Degistir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkında.Designer.cs">
+      <DependentUpon>Hakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kripto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kripto.Designer.cs">
+      <DependentUpon>kripto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmis.Designer.cs">
+      <DependentUpon>Gecmis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Git.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Git.Designer.cs">
+      <DependentUpon>Git.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secenekler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secenekler.Designer.cs">
+      <DependentUpon>Secenekler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="un_kripto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="un_kripto.Designer.cs">
+      <DependentUpon>un_kripto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veri_Dönüştürücü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veri_Dönüştürücü.Designer.cs">
+      <DependentUpon>Veri_Dönüştürücü.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bul.resx">
+      <DependentUpon>Bul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Degistir.resx">
+      <DependentUpon>Degistir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmis.resx">
+      <DependentUpon>Gecmis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkında.resx">
+      <DependentUpon>Hakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kripto.resx">
+      <DependentUpon>kripto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Git.resx">
+      <DependentUpon>Git.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Secenekler.resx">
+      <DependentUpon>Secenekler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="un_kripto.resx">
+      <DependentUpon>un_kripto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veri_Dönüştürücü.resx">
+      <DependentUpon>Veri_Dönüştürücü.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <EmbeddedResource Include="ayarlar.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>ayarlar.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Applic-Notepad-icon.png.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
